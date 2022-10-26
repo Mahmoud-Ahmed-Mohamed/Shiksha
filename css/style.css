@@ -118,7 +118,7 @@ a:hover {
     transition: .5s ease;
 }
 #part1 {
-    background-image: url(../images/part1.webp);
+    background-image: url(../images/part1.jpg);
     background-position: center center;
     background-size: cover;
     height: 865px;
@@ -180,7 +180,7 @@ a:hover {
 } */
 #part2-left {
     width: 50%;
-    background-image: url(../images/part2.webp);
+    background-image: url(../images/part2.jpg);
     width: 570px;
     height: 466px;
 }
@@ -472,7 +472,7 @@ a:hover {
     width: 70%;
 }
 #part4 > .back-ground {
-    background-image: url(../images/part4.webp);
+    background-image: url(../images/part4.jpg);
     background-position: center;
     background-size: cover;
     height: 777px;
@@ -636,7 +636,7 @@ a:hover {
     font-size: 12px;
 }
 #footer1 {
-    background-image: url(../images/footer1.webp);
+    background-image: url(../images/footer1.jpg);
     position: relative;
     height: 641px;
     color: #ffffff;
@@ -820,7 +820,7 @@ input {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(../images/footer2.webp);
+    background-image: url(../images/footer2.jpg);
     background-position: center center;
     background-size: cover;
     position: relative;
